@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Jacksonnn SFT Dev Test">
+    <output-path>$PROJECT_DIR$/out/artifacts/Jacksonnn_SFT_Dev_Test</output-path>
+    <root id="archive" name="Jacksonnn SFT Dev Test.jar">
+      <element id="module-output" name="JacksonSFTTest" />
+    </root>
+  </artifact>
+</component>

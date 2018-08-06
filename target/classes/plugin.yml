@@ -1,0 +1,6 @@
+name: DisableGod
+version: 1.0
+main: com.jacksonnn.disablegod.DisableGod
+loadbefore: [CommandBook]
+authors: [Jacksonnn]
+description: Jacksonnn's test for SFT Developer
