@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SFTGodFly.iml" filepath="$PROJECT_DIR$/.idea/SFTGodFly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DisableGod.iml" filepath="$PROJECT_DIR$/DisableGod.iml" />
     </modules>
   </component>
 </project>

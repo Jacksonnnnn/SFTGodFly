@@ -21,6 +21,7 @@ public class onWorldChange implements Listener {
         if (world.getEnvironment().equals(World.Environment.NETHER) || world.getEnvironment().equals(World.Environment.THE_END)) {
             if (!player.hasPermission("SFT.bypass")) {
                 gc.disableGodMode(player);
+                player.setFlying(false);
                 player.setAllowFlight(false);
             }
         }
